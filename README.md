@@ -23,6 +23,7 @@ Ask me anything <a href="mailto:mohammedaltarkawi@gmail.com"><b>send me an email
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-altarkawi/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=Credly&logoColor=white)](https://www.credly.com/users/mohammed-altarkawi/)
 <!--[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://people.sap.com/)
 [![XING](https://img.shields.io/badge/XING-cfdc00?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile//cv)-->
 </a>
