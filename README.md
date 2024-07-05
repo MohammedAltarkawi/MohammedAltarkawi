@@ -5,7 +5,7 @@
 <br />
 
 
-Hi 👋, I'm Mohammed, I'm a passionate SAP Developer with expertise in SAPUI5, ABAP, and RESTful. With 4 years of experience in the industry, I have honed my skills in delivering high-quality solutions that cater to the unique needs of clients.
+Hi 👋, I'm Mohammed, I'm a passionate SAP Developer with expertise in SAPUI5, ABAP, and RESTful. With 5 years of experience in the industry, I have honed my skills in delivering high-quality solutions that cater to the unique needs of clients.
 <br />
 <br />
 As a strong analytical thinker, I am adept at identifying complex problems and developing effective solutions that drive business growth. I believe in continuous learning and staying updated with the latest advancements in the industry, and I strive to share my knowledge and contribute to the community through my GitHub activity.
@@ -21,7 +21,7 @@ Ask me anything <a href="mailto:mohammedaltarkawi@gmail.com"><b>send me an email
 <br />
 
 
-
+[![Linkedin](https://img.shields.io/badge/npm-CC3534?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~altarkawi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-altarkawi/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=Credly&logoColor=white)](https://www.credly.com/users/mohammed-altarkawi/)
 <!--[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://people.sap.com/)
