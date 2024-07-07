@@ -5,14 +5,14 @@
 <br />
 
 
-Hi 👋, I'm Mohammed, I'm a passionate SAP Developer with expertise in SAPUI5, ABAP, and RESTful. With 5 years of experience in the industry, I have honed my skills in delivering high-quality solutions that cater to the unique needs of clients.
+Hi 👋, I'm Mohammed, a passionate SAP Developer specializing in SAPUI5, ABAP, and RESTful technologies. With 5 years of experience in the industry, I've developed NPM and plenty of SAPUI5 solutions.
 <br />
 <br />
-As a strong analytical thinker, I am adept at identifying complex problems and developing effective solutions that drive business growth. I believe in continuous learning and staying updated with the latest advancements in the industry, and I strive to share my knowledge and contribute to the community through my GitHub activity.
+I pride myself on being a strong analytical thinker, adept at identifying complex problems and crafting effective solutions that drive business growth. I'm committed to continuous learning and staying abreast of the latest industry advancements. I enjoy sharing my knowledge and contributing to the community through my GitHub projects.
 
-I am a collaborative team player who values communication and feedback, and I believe in working closely with stakeholders to ensure that their needs are met. My attention to detail and strong analytical skills enable me to quickly identify issues and implement effective solutions.
+Collaboration is at the heart of my work ethic. I value open communication and constructive feedback, and I believe in working closely with stakeholders to ensure their needs are fully met. My attention to detail and analytical skills help me swiftly identify issues and implement effective solutions.
 
-Thank you for taking the time to read my profile. If you have any questions or would like to discuss potential collaborations, please feel free to reach out.
+Thank you for taking the time to read my profile. If you have any questions or are interested in potential collaborations, please don't hesitate to reach out.
 
 <br />
 
