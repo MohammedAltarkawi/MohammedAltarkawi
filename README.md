@@ -5,14 +5,12 @@
 <br />
 
 
-Hi 👋, I'm Mohammed, a dedicated SAP Developer with a specialization in SAPUI5, ABAP, and RESTful technologies. With five years of industry experience under my belt, I've successfully developed numerous NPM packages and SAPUI5 (TypeScript and JavaScript) solutions.
+Hey 👋, I’m Mohammed, an SAP Developer specializing in SAPUI5, ABAP, and RESTful technologies. For the past five years, I’ve been diving deep into this space, building NPM packages and crafting SAPUI5 solutions with both TypeScript and JavaScript.
 <br />
 <br />
-I'm known for my strong analytical thinking, which allows me to tackle complex problems and create solutions that drive business growth. I'm committed to continuous learning and staying updated with the latest industry advancements. I love sharing my knowledge and contributing to the community through my projects on GitHub.
+I’m someone who genuinely enjoys solving complex problems. My analytical approach helps me break challenges down and create solutions that make a real impact. I’m always learning, keeping up with new trends, and sharing what I know. 
 
-Collaboration is essential to my work ethic. I believe in open communication, constructive feedback, and working closely with stakeholders to ensure their needs are met. My attention to detail and analytical skills enable me to quickly identify issues and implement effective solutions.
-
-Thank you for taking the time to read my profile. If you have any questions or are interested in potential collaborations, please don't hesitate to reach out.
+Thanks for stopping by my profile! If you want to chat or explore how we can work together, don’t hesitate to reach out.
 
 <br />
 
