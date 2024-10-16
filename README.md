@@ -5,7 +5,7 @@
 <br />
 
 
-Hey 👋, I’m Mohammed, an SAP Developer specializing in SAPUI5, ABAP, and RESTful technologies. For the past five years, I’ve been diving deep into this space, building NPM packages and crafting SAPUI5 solutions with both TypeScript and JavaScript.
+Hey 👋, I’m Mohammed, an SAP Developer specializing in SAPUI5, ABAP OO and RAP. For the past five years, I’ve been diving deep into this space, building NPM packages and crafting SAPUI5 solutions with both TypeScript and JavaScript.
 <br />
 <br />
 I’m someone who genuinely enjoys solving complex problems. My analytical approach helps me break challenges down and create solutions that make a real impact. I’m always learning, keeping up with new trends, and sharing what I know. 
